@@ -8,15 +8,14 @@ C#, Java projelerim için GitHub kodlarıma göz atabilirsiniz.
 
 Bunlar dışında dergide yayımlanmış "Elektrokardiyografi sinyali ile bazal metabolizma hesabı" isimli makine öğrenmesi makalem ve 2021 yılı Ulusal Dermatoloji Kongresinde Sunumu yapılmış ve bildirisi yayınlanmış Görüntü işleme ile yapılan "Yapay Zekâ Tabanlı Onikomikoz Tespiti" isimli bir projem mevcut.
 
+Bildiri:
+
+(Sayfa 40 da yer almaktadır!)
+[Bildiri Kitabı - 29. UDK.pdf](https://github.com/Glipotions/Glipotions/files/9115153/Bildiri.Kitabi.-.29.UDK.pdf)
+
 Makale:
 
 <a target="_blank" href="https://dergipark.org.tr/en/pub/jista/issue/61285/909178"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
->  
-
-Bildiri:
-
-(Sayfa 40)
-[Bildiri Kitabı - 29. UDK.pdf](https://github.com/Glipotions/Glipotions/files/9115153/Bildiri.Kitabi.-.29.UDK.pdf)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glipotions)](https://github.com/anuraghazra/github-readme-stats) [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=glipotions&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
