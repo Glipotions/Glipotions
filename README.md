@@ -3,14 +3,14 @@
 Ben Hamza,
 Elektrik Elektronik Mühendisliği 2021 Mezunuyum. Tüm dünyada baş gösteren korona virüs pandemisinin başlangıcından beri yoğun olarak yazılım öğreniyor ve projeler geliştirmeye çalışıyorum.
 
-C# EntityFramework code first ve Linq kullanarak backend projeleri geliştirdim. Masaüstü yazılım için devExpress componentlerinden de yararlanarak detaylı programlar yaptım.
-C#, Java projelerim için GitHub kodlarıma göz atabilirsiniz.
+C# EntityFramework code first ve Linq kullanarak backend projeleri geliştiriyorum. Masaüstü yazılım için devExpress componentlerinden de yararlanarak detaylı programlar yapmaktayım. Hazırladığım Backend projelerinde genellikle UI olarak Windows uygulaması, Blazor ve Flutter kullanıyorum
+C#, Flutter ve Java projelerim için GitHub kodlarıma göz atabilirsiniz.
 
 Bunlar dışında dergide yayımlanmış "Elektrokardiyografi sinyali ile bazal metabolizma hesabı" isimli makine öğrenmesi makalem ve 2021 yılı Ulusal Dermatoloji Kongresinde Sunumu yapılmış ve bildirisi yayınlanmış Görüntü işleme ile yapılan "Yapay Zekâ Tabanlı Onikomikoz Tespiti" isimli bir projem mevcut.
 
 Bildiri:
-
 (Sayfa 40 da yer almaktadır!)
+
 [Bildiri Kitabı - 29. UDK.pdf](https://github.com/Glipotions/Glipotions/files/9115153/Bildiri.Kitabi.-.29.UDK.pdf)
 
 Makale:
