@@ -13,7 +13,9 @@ Makale:
 <a target="_blank" href="https://dergipark.org.tr/en/pub/jista/issue/61285/909178"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
 
 
-Bildiri: (Sayfa 40)
+Bildiri: 
+
+(Sayfa 40)
 [Bildiri Kitabı - 29. UDK.pdf](https://github.com/Glipotions/Glipotions/files/9115153/Bildiri.Kitabi.-.29.UDK.pdf)
 
 
