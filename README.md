@@ -1,3 +1,5 @@
+#### Read this in other languages: [Türkçe](https://github.com/Glipotions) | [English](https://github.com/Glipotions/Glipotions/blob/main/README.en.md)
+
 ### Merhaba 👋
 
 Ben Hamza,
@@ -8,12 +10,12 @@ C#, Flutter ve Java projelerim için GitHub kodlarıma göz atabilirsiniz.
 
 Bunlar dışında dergide yayımlanmış "Elektrokardiyografi sinyali ile bazal metabolizma hesabı" isimli makine öğrenmesi makalem ve 2021 yılı Ulusal Dermatoloji Kongresinde Sunumu yapılmış ve bildirisi yayınlanmış Görüntü işleme ile yapılan "Yapay Zekâ Tabanlı Onikomikoz Tespiti" isimli bir projem mevcut.
 
-Bildiri:
+#### Bildiri:
 (Sayfa 40 da yer almaktadır!)
 
 [Bildiri Kitabı - 29. UDK.pdf](https://github.com/Glipotions/Glipotions/files/9115153/Bildiri.Kitabi.-.29.UDK.pdf)
 
-Makale:
+#### Makale:
 
 <a target="_blank" href="https://dergipark.org.tr/en/pub/jista/issue/61285/909178"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
 
