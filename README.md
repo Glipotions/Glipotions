@@ -2,9 +2,6 @@
 
 ### Merhaba 👋
 
-  -dasdfasdf
-  -sadlfsdfa
-
 Ben Hamza,
 Elektrik Elektronik Mühendisliği 2021 Mezunuyum. Tüm dünyada baş gösteren korona virüs pandemisinin başlangıcından beri yoğun olarak yazılım öğreniyor ve projeler geliştirmeye çalışıyorum.
 
